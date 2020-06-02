@@ -1,0 +1,1 @@
+Please download the articles from https://www.kaggle.com/snapcrack/all-the-news and place them in this folder before executing the program. Locate the `csv_path` variable in the `tfidf.py` file and replace the path with the CSV file you would like to use.
