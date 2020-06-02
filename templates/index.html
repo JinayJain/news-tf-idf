@@ -5,8 +5,14 @@
     <body>
         <h1>TF-IDF Search</h1>
         <form action="/search">
-            <input name="query" id="query" type="text" />
-            <input name="num_articles" id="num_articles" type="number" />
+            <label for="query">Search Query</label><br />
+            <input name="query" id="query" type="text" /><br /><br />
+            <label for="num_articles">Number of Articles</label><br />
+            <input
+                name="num_articles"
+                id="num_articles"
+                type="number"
+            /><br /><br />
             <button type="submit">Submit</button>
         </form>
     </body>
