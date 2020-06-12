@@ -12,7 +12,7 @@ accurately.
 
 This project is hosted on Heroku at https://newstfidf.herokuapp.com/
 **Please note that startup times for the app may vary depending on the
-availability of the free tier of Heroku servers at that time.** Wait for at least 1 minute so that the app can index through articles. Subsequent searches should be must faster.
+availability of the free tier of Heroku servers at that time.** Wait for at least 1 minute so that the app can index through articles. Subsequent searches should be much faster.
 
 ## Data
 
